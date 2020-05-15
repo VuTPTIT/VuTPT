@@ -1,0 +1,42 @@
+.layout1 {
+  background-color: #f1f1f163;
+  width: 850px;
+  height: 730px;
+  margin: 0 auto;
+  border-left: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.layout {
+  background-color: #58daaa47;
+  width: 700px;
+  height: 550px;
+  margin: 0 auto;
+  border-radius: 50px;
+  font-family: sans-serif;
+}
+.icon {
+  padding: 30px;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.text1{
+
+}
+.icon1{
+  height: 50px;
+  width: 50px;
+  background-color: red;
+
+}
+.icon2{
+  flex-basis: 170px;
+}
+.icon3{
+  flex-basis: 170px;
+}
